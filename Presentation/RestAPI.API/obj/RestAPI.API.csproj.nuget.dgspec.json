@@ -1,0 +1,415 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\RestAPI.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\RestAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\RestAPI.Application.csproj",
+        "projectName": "RestAPI.Application",
+        "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\RestAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\habgu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\habgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Domain\\RestAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Domain\\RestAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Domain\\RestAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Domain\\RestAPI.Domain.csproj",
+        "projectName": "RestAPI.Domain",
+        "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Domain\\RestAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\habgu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\habgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Infrastructure\\RestAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Infrastructure\\RestAPI.Infrastructure.csproj",
+        "projectName": "RestAPI.Infrastructure",
+        "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Infrastructure\\RestAPI.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\habgu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\habgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\RestAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\RestAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Persistence\\RestAPI.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Persistence\\RestAPI.Persistence.csproj",
+        "projectName": "RestAPI.Persistence",
+        "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Persistence\\RestAPI.Persistence.csproj",
+        "packagesPath": "C:\\Users\\habgu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\habgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\RestAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\RestAPI.Application.csproj"
+              },
+              "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Infrastructure\\RestAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Infrastructure\\RestAPI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\RestAPI.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\RestAPI.API.csproj",
+        "projectName": "RestAPI.API",
+        "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\RestAPI.API.csproj",
+        "packagesPath": "C:\\Users\\habgu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\habgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\RestAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Core\\RestAPI.Application\\RestAPI.Application.csproj"
+              },
+              "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Infrastructure\\RestAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Infrastructure\\RestAPI.Infrastructure.csproj"
+              },
+              "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Persistence\\RestAPI.Persistence.csproj": {
+                "projectPath": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Infrastructure\\RestAPI.Persistence\\RestAPI.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

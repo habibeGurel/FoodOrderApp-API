@@ -1,0 +1,17 @@
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\bin\Debug\net6.0\RestAPI.Infrastructure.deps.json
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\bin\Debug\net6.0\RestAPI.Infrastructure.dll
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\bin\Debug\net6.0\RestAPI.Infrastructure.pdb
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\bin\Debug\net6.0\RestAPI.Application.dll
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\bin\Debug\net6.0\RestAPI.Domain.dll
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\bin\Debug\net6.0\RestAPI.Application.pdb
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\bin\Debug\net6.0\RestAPI.Domain.pdb
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\RestAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\RestAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\RestAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\RestAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\RestAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\RestAPI.Infrastructure.csproj.CopyComplete
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\RestAPI.Infrastructure.dll
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\refint\RestAPI.Infrastructure.dll
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\RestAPI.Infrastructure.pdb
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Infrastructure\RestAPI.Infrastructure\obj\Debug\net6.0\ref\RestAPI.Infrastructure.dll

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PoC0kUI6Y2lWigCZT3vt3L2PDhT/YiHoAaszi8SQXck=",
+  "Source": "RestAPI.API",
+  "BasePath": "_content/RestAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestAPI.API\\wwwroot",
+      "Source": "RestAPI.API",
+      "ContentRoot": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\wwwroot\\",
+      "BasePath": "_content/RestAPI.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

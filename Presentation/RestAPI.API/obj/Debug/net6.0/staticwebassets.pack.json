@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\wwwroot\\resource\\product-images\\habibe-imza-jpeg.jpeg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\habibe-imza-jpeg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\wwwroot\\resource\\product-images\\talha-imza-jpeg.jpeg",
+      "PackagePath": "staticwebassets\\resource\\product-images\\talha-imza-jpeg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\wwwroot\\resource\\product-images\\yaprakSarma-png-2.png",
+      "PackagePath": "staticwebassets\\resource\\product-images\\yaprakSarma-png-2.png"
+    },
+    {
+      "Id": "C:\\Users\\habgu\\OneDrive\\Masaüstü\\angular\\RestAPI\\Presentation\\RestAPI.API\\wwwroot\\resource\\product-images\\yaprakSarma-png.png",
+      "PackagePath": "staticwebassets\\resource\\product-images\\yaprakSarma-png.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RestAPI.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RestAPI.API.props",
+      "PackagePath": "build\\RestAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RestAPI.API.props",
+      "PackagePath": "buildMultiTargeting\\RestAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RestAPI.API.props",
+      "PackagePath": "buildTransitive\\RestAPI.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

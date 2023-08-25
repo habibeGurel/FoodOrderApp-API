@@ -1,0 +1,12 @@
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\bin\Debug\net6.0\RestAPI.Domain.deps.json
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\bin\Debug\net6.0\RestAPI.Domain.dll
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\bin\Debug\net6.0\RestAPI.Domain.pdb
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\obj\Debug\net6.0\RestAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\obj\Debug\net6.0\RestAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\obj\Debug\net6.0\RestAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\obj\Debug\net6.0\RestAPI.Domain.AssemblyInfo.cs
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\obj\Debug\net6.0\RestAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\obj\Debug\net6.0\RestAPI.Domain.dll
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\obj\Debug\net6.0\refint\RestAPI.Domain.dll
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\obj\Debug\net6.0\RestAPI.Domain.pdb
+C:\Users\habgu\OneDrive\Masaüstü\angular\RestAPI\Core\RestAPI.Domain\obj\Debug\net6.0\ref\RestAPI.Domain.dll
